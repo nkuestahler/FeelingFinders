@@ -1,6 +1,6 @@
 ## About This Project
 
-This repository contains a sentiment analysis project using **Dynamic Expert Consensus Ensembling**, originally developed as a group project at **ETH Zürich** during the Computational Intelligence Lab
+This repository contains reupload of a sentiment analysis project using **Dynamic Expert Consensus Ensembling**, originally developed as a group project at **ETH Zürich** during the Computational Intelligence Lab
 The original work was collaborative.
 
 ### Team
