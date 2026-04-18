@@ -1,3 +1,17 @@
+## About This Project
+
+This repository contains a sentiment analysis project using **Dynamic Expert Consensus Ensembling**, originally developed as a group project at **ETH Zürich** during the Computational Intelligence Lab
+The original work was collaborative.
+
+### Team
+- Gustavo Aguiar Martins
+- Frederik van der Brugge 
+- Maximilian Schlegel
+- Nils Küstahler 
+
+### Academic Context
+This project was submitted as coursework at ETH Zürich. It is shared here for demonstration purposes only and is not intended as a reference solution for current students of the course.
+
 ## FeelingFinders
 # CIL Project
 
